@@ -30,7 +30,8 @@ Les commentaires sont présents dans le code pour aider. mais voici la liste de 
 permet de lancer le fichier sur le terminal.
 :wink::wink::wink::wink::wink::wink:
 
-Mais avant ça tu dois changer les identifiants gmail dans le fichier /db/email_to_send.rb
+Mais avant ça tu dois changer les identifiants gmail dans le fichier : 
+**/lib/app/email_to_send.rb**
 
 Remplace ENV["GMAIL_USERNAME"] par "ton mail", et ENV["GMAIL_PSW"] "ton mot de passe"
 
