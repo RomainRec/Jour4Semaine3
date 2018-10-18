@@ -38,11 +38,11 @@ Remplace ENV["GMAIL_USERNAME"] par "ton mail", et ENV["GMAIL_PSW"] "ton mot de p
 ## Sur Slack :tea: :
 
 
-* Guillaum Pichot slacke/ @Guillaum :tropical_fish:
-* Romain Recher   slack/  @Romain :whale2:
-* Assani Samuel   slack/  @Sassani :tiger2:
-* Hai Dang        slack/  @Hai-Dang :leopard:
-* Meghzili Fayçal slack/  @Fays :dolphin:
+* Guillaum Pichot   slack/  @Guillaume :tropical_fish:
+* Romain Recher     slack/  @Romain :whale2:
+* Assani Samuel     slack/  @Sassani :tiger2:
+* Hai Dang Ha-Thuc  slack/  @Hai-Dang :leopard:
+* Meghzili Fayçal   slack/  @Fays :dolphin:
 
 
 
@@ -73,7 +73,7 @@ devrait suffir pour profitez des gems.
 Voici le lien de fichier  [Grenoble](https://github.com/RomainRec/Jour4Semaine3)
 
 
-On a envoyé 312 emails pour 312 mairies voila [la.preuve](https://files.slack.com/files-pri/T3W8B88JW-FDGMC32HX/screen_shot_2018-10-18_at_18.46.50.png)
+On a envoyé 312 emails pour 312 mairies voila [la preuve](https://files.slack.com/files-pri/T3W8B88JW-FDGMC32HX/screen_shot_2018-10-18_at_18.46.50.png)
 
 
                                              ❤️❤️❤️   MERCI A VOUS ❤️❤️❤️
