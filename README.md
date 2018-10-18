@@ -9,16 +9,28 @@ C'est un excellent entrainement pour les projets plus conséquents de la formati
 
 :fire: :fire: :fire: :fire: :fire: :fire::fire: :fire: :fire: :fire: :fire:
 
-## Contenu :
-*  app.rb :    permet de lancer le programme dans son terminal
-*  email_to_send.rb :   le fichier qui contient la liste des emails
-*  townhall.json  :  le fichier qui contient les mairies
+## Sur Slack :tea: :
 
+* Guillaum Pichot   slack/  @Guillaume :tropical_fish:
+* Romain Recher     slack/  @Romain :whale2:
+* Assani Samuel     slack/  @Sassani :tiger2:
+* Hai Dang Ha-Thuc  slack/  @Hai-Dang :leopard:
+* Meghzili Fayçal   slack/  @Fays :dolphin:
 
                    
                     
-## Note :wink: :
-Les commentaires sont présents dans le code pour aider. mais voici la liste de l'éxécution des méthodes afin de vous y retrouver.
+# Projet :wink: :
+ Voici le lien de fichier  [Grenoble](https://github.com/RomainRec/Jour4Semaine3).
+ Ci-dessous la liste de l'éxécution des méthodes afin de vous y retrouver. 
+ Des commentaires sont présents dans le code pour aider.
+
+
+## Contenu :
+*  app.rb :    permet de lancer le programme dans son terminal
+*  email_to_send.rb :   le fichier qui contient la liste des emails :email:
+*  townhall.json  :  le fichier qui contient les mairies
+*  townhalls_adder_to_db.rb : le fichier était censé renvoyé le handle Twitter de chaque mairie... Malheureusement il ne fonctionne pas :grimacing:
+*  townhalls_follower.rb : l'utilisation de l'API pour s'abonner à un compte marche. Mais il faut se référer au problème de townhalls_adder_to_db.rb :point_up:
 
 
 ## Pour executer ce code :
@@ -35,14 +47,7 @@ Mais avant ça tu dois changer les identifiants gmail dans le fichier :
 
 Remplace ENV["GMAIL_USERNAME"] par "ton mail", et ENV["GMAIL_PSW"] "ton mot de passe"
 
-## Sur Slack :tea: :
 
-
-* Guillaum Pichot   slack/  @Guillaume :tropical_fish:
-* Romain Recher     slack/  @Romain :whale2:
-* Assani Samuel     slack/  @Sassani :tiger2:
-* Hai Dang Ha-Thuc  slack/  @Hai-Dang :leopard:
-* Meghzili Fayçal   slack/  @Fays :dolphin:
 
 
 
@@ -70,10 +75,13 @@ Aussi :
 
 devrait suffir pour profitez des gems.
 
-Voici le lien de fichier  [Grenoble](https://github.com/RomainRec/Jour4Semaine3)
 
-
+## Rendu :
 On a envoyé 312 emails pour 312 mairies voila [la preuve](https://files.slack.com/files-pri/T3W8B88JW-FDGMC32HX/screen_shot_2018-10-18_at_18.46.50.png)
+
+## Note sur la méthode de travail du groupe : :loop:
+Nous avons bien travaillé en groupe avec des branches.
+Malheureusement, nous avons eu quelques soucis avec notre repo alors ce repo ne reflète pas toute la chronologie du travail et tous les commits effectués :bulb:
 
 
                                              ❤️❤️❤️   MERCI A VOUS ❤️❤️❤️
