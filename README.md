@@ -13,7 +13,7 @@ C'est un excellent entrainement pour les projets plus conséquents de la formati
 
 * Guillaum Pichot   slack/  @Guillaume :tropical_fish:
 * Romain Recher     slack/  @Romain :whale2:
-* Assani Samuel     slack/  @Sassani :tiger2:
+* Samuel Assani   slack/  @Sassani :tiger2:
 * Hai Dang Ha-Thuc  slack/  @Hai-Dang :leopard:
 * Meghzili Fayçal   slack/  @Fays :dolphin:
 
