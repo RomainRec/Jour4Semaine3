@@ -22,12 +22,13 @@ Le projet du jour est d'envoyer (avec du codage) des emails aux mairies pour qu'
 Est-ce que la mairie de #{row[0]} veut changer le monde avec nous ?
             
 Charles, co-fondateur de The Hacking Project pourra répondre à toutes vos questions : 06.95.46.60.80."
-    end
+      end
     email.charset = 'utf-8' # pour enlever les carractères spéciaux du csv.
     email.deliver  # on envoie les mails
     gmail.logout #à la fin on se déconnecte 
+    end
   end
-end
+
   def lauch_emails
     # on compte le nomdre d'emails dans le fichier CSV
     mail_count = CSV.foreach('./db/email.csv',{:headers=>:first_row}).count
