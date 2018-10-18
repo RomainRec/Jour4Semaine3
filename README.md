@@ -4,7 +4,7 @@
 
 ## Introduction:
 
-Le projet consistera en gros à contacter toutes les mairies de France pour que ces dernières parlent de THP. Qui sait, ptet que grâce à vous on aura The Hacking Project dans une ferme de la Creuse ❤️
+Le projet consiste en gros à contacter toutes les mairies de France pour que ces dernières parlent de THP. Qui sait, ptet que grâce à vous on aura The Hacking Project dans une ferme de la Creuse ❤️
 
 :fire: :fire: :fire: :fire: :fire: :fire::fire: :fire: :fire: :fire: :fire:
 
