@@ -1,4 +1,4 @@
-
+# frozen_string_literal: true
 
 require 'bundler'
 Bundler.require
@@ -90,7 +90,7 @@ class Scrap_json
 
   # convertie le hash cities_hash en json
   def convert_json
-    File.open("../../db/townhall.json","w") do |f|
+    File.open("./db/townhall.json","w") do |f|
       f.write(@result.to_json)
     end
     puts "Le scrapping est dans le json"

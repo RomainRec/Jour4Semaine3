@@ -3,13 +3,12 @@
 require 'bundler'
 Bundler.require
 
-$:.unshift File.expand_path("./../lib/app", __FILE__)
-# require 'townhalls_follower.rb'
-require 'email_to_send.rb'
-#require 'townhalls_adder_to_db.rb'
-require 'town_scrapper_json.rb'
-$:.unshift File.expand_path("./../lib/views", __FILE__)
-require 'index.rb'
+$:.unshift File.expand_path("./../lib", __FILE__)
+# require 'app/townhalls_follower.rb'
+require 'app/email_to_send.rb'
+#require 'app/townhalls_adder_to_db.rb'
+require 'app/town_scrapper_json.rb'
+require 'views/index.rb'
 require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
