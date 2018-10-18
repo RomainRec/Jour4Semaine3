@@ -32,26 +32,6 @@ Des commentaires sont présents dans le code pour aider.
 *  townhalls_adder_to_db.rb : le fichier était censé renvoyé le handle Twitter de chaque mairie... Malheureusement il ne fonctionne pas :grimacing:
 *  townhalls_follower.rb : l'abonnement à un compte Twitter de mairie via l'API fonctionne. Mais cela marche pour le moment qu'avec des handles connus (sinon, il faut se référer au problème de *townhalls_adder_to_db.rb* :point_up:)
 
-
-## Pour executer ce code :
-
-```
-   $> ruby app.rb
-```
-
-permet de lancer le fichier sur le terminal.
-:wink::wink::wink::wink::wink::wink:
-
-Mais avant ça tu dois changer les identifiants gmail dans le fichier : 
-**/lib/app/email_to_send.rb**
-
-Remplace ENV["GMAIL_USERNAME"] par "ton mail", et ENV["GMAIL_PSW"] "ton mot de passe"
-
-
-
-
-
-
 ## Install des gems:
 
 ```
@@ -73,8 +53,21 @@ Aussi :
    $> bundle install
 ```
 
-devrait suffir pour profitez des gems.
+devrait suffir pour profiter des gems.
 
+## Pour executer ce code :
+
+```
+   $> ruby app.rb
+```
+
+permet de lancer le fichier sur le terminal.
+:wink::wink::wink::wink::wink::wink:
+
+Mais avant ça tu dois changer les identifiants gmail dans le fichier : 
+**/lib/app/email_to_send.rb**
+
+Remplace ENV["GMAIL_USERNAME"] par "ton mail", et ENV["GMAIL_PSW"] "ton mot de passe"
 
 ## Rendu :
 On a envoyé 312 emails pour 312 mairies voila [la preuve](https://files.slack.com/files-pri/T3W8B88JW-FDGMC32HX/screen_shot_2018-10-18_at_18.46.50.png)
@@ -84,4 +77,4 @@ Nous avons bien travaillé en groupe avec des branches.
 Malheureusement, nous avons eu quelques soucis avec notre repo alors ce repo ne reflète pas toute la chronologie du travail et tous les commits effectués :bulb:
 
 
-                                             ❤️❤️❤️   MERCI A VOUS ❤️❤️❤️
+                                             ❤️❤️❤️ MERCI A VOUS ❤️❤️❤️
