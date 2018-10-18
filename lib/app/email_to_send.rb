@@ -7,7 +7,7 @@ class Emails
 
   def format_emails  
 
-  CSV.foreach('email.csv',{:headers=>:first_row}) do |row| # on va chercher les infos de chaque ligne dans le csv (sans la première ligne)
+  CSV.foreach('./db/email.csv',{:headers=>:first_row}) do |row| # on va chercher les infos de chaque ligne dans le csv (sans la première ligne)
 
     gmail = Gmail.connect!(ENV["GMAIL_USERNAME"], ENV["GMAIL_PSW"]) #on se connecte à notre compte
 
