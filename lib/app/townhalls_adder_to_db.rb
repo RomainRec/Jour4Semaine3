@@ -3,7 +3,7 @@ require 'twitter'
 require 'bundler'
 Bundler.require
 
-class Add_column_json
+class ColumnJson
 
 	def initialize
 		data = File.read("./db/townhall.json")
@@ -59,4 +59,4 @@ end
 	end
 end
 
-Add_column_json.new
+ColumnJson.new
