@@ -15,7 +15,7 @@ C'est un excellent entrainement pour les projets plus conséquents de la formati
 * Romain Recher     slack/  @Romain :whale2:
 * Samuel Assani   slack/  @Sassani :tiger2:
 * Hai Dang Ha-Thuc  slack/  @Hai-Dang :leopard:
-* Meghzili Fayçal   slack/  @Fays :dolphin:
+* Fayçal Meghzili   slack/  @Fays :dolphin:
 
                    
                     
