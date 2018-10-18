@@ -20,9 +20,9 @@ C'est un excellent entrainement pour les projets plus conséquents de la formati
                    
                     
 # Projet :wink: :
- Voici le lien de fichier  [Grenoble](https://github.com/RomainRec/Jour4Semaine3).
- Ci-dessous la liste de l'éxécution des méthodes afin de vous y retrouver. 
- Des commentaires sont présents dans le code pour aider.
+Voici le lien de fichier  [Grenoble](https://github.com/RomainRec/Jour4Semaine3).  
+Ci-dessous la liste de l'éxécution des méthodes afin de vous y retrouver.  
+Des commentaires sont présents dans le code pour aider.  
 
 
 ## Contenu :
