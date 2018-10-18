@@ -1,8 +1,4 @@
-require 'gmail'
-require 'rubygems'
-require 'csv'
-require 'dotenv'
-Dotenv.load('.env')
+
 
 
 def emails  

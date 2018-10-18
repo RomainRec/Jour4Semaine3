@@ -6,9 +6,27 @@ Bundler.require
 class Add_column_json
 
 	def initialize
-		file = open("../../db/townhall.json")
-		json = file.read
+		data = File.read("./db/townhall.json")
+		@data_hash = JSON.parse(data)
+	end
 
+	def recup_name_town
+		@array_town=[]
+		@data_hash.each{ |hash_town| @array_town << hash_tow["name"]}
+		@array_town
+	end
+
+	def recup_handle
+		#on cherche ici les handle des villes, qu'on met dans un tableau, en cherchant une correspondance pour chaque ville
+	end
+
+	def add_handle_column
+		i=0
+		@data_hash.size.time do 
+			hash[i]["Handle"] = @array_handle[i]
+		end
+	end 
+end
 		parsed = JSON.parse(json)
 		count0 = 0
 		count1 = 0
