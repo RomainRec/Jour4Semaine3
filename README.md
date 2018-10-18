@@ -14,9 +14,9 @@ Le projet consistera en gros à contacter toutes les mairies de France pour que 
 *  townhall.json  :  le fichier qui contient les mairies
 
 
-                   :wink: :wink: :wink: :wink: :wink: :wink::wink: :wink: :wink:
+                   
                     
-## Note :
+## Note :wink: :
 Les commentaires sont présents dans le code pour aider. mais voici la liste de l'éxécution des méthodes afin de vous y retrouver.
 
 
@@ -26,7 +26,7 @@ Les commentaires sont présents dans le code pour aider. mais voici la liste de 
 ```
 
 permet de lancer le fichier sur le terminal.
-
+:wink::wink::wink::wink::wink::wink:
 
 
 ## Sur Slack :tea: :
