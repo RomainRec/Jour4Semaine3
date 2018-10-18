@@ -11,10 +11,10 @@ C'est un excellent entrainement pour les projets plus conséquents de la formati
 
 ## Sur Slack :tea: :
 
-* Guillaum Pichot   slack/  @Guillaume :tropical_fish:
+* Guillaume Pichot   slack/  @Guillaume :tropical_fish:
 * Romain Recher     slack/  @Romain :whale2:
 * Samuel Assani   slack/  @Sassani :tiger2:
-* Hai Dang Ha-Thuc  slack/  @Hai-Dang :leopard:
+* Hai-Dang Ha-Thuc  slack/  @Hai-Dang :leopard:
 * Fayçal Meghzili   slack/  @Fays :dolphin:
 
                    
