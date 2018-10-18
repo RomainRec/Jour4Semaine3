@@ -70,7 +70,12 @@ Mais avant ça tu dois changer les identifiants gmail dans le fichier :
 Remplace ENV["GMAIL_USERNAME"] par "ton mail", et ENV["GMAIL_PSW"] "ton mot de passe"
 
 ## Rendu :
-On a envoyé 312 emails pour 312 mairies voila [la preuve](https://files.slack.com/files-pri/T3W8B88JW-FDGMC32HX/screen_shot_2018-10-18_at_18.46.50.png)
+Nous avons choisi les départements suivants :
+* Bouches-du-Rhône (13)
+* Vaucluse (84)
+* Guadeloupe (971)  
+
+Nous avons envoyé 312 emails pour 312 mairies. Voila [la preuve](https://files.slack.com/files-pri/T3W8B88JW-FDGMC32HX/screen_shot_2018-10-18_at_18.46.50.png)
 
 ## Note sur la méthode de travail du groupe : :loop:
 Nous avons bien travaillé en groupe avec des branches.
