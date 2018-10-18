@@ -30,7 +30,7 @@ Des commentaires sont présents dans le code pour aider.
 *  email_to_send.rb :   le fichier qui contient la liste des emails :email:
 *  townhall.json  :  le fichier qui contient les mairies
 *  townhalls_adder_to_db.rb : le fichier était censé renvoyé le handle Twitter de chaque mairie... Malheureusement il ne fonctionne pas :grimacing:
-*  townhalls_follower.rb : l'utilisation de l'API pour s'abonner à un compte marche. Mais il faut se référer au problème de townhalls_adder_to_db.rb :point_up:
+*  townhalls_follower.rb : l'abonnement à un compte Twitter de mairie via l'API fonctionne. Mais cela marche pour le moment qu'avec des handles connus (sinon, il faut se référer au problème de *townhalls_adder_to_db.rb* :point_up:)
 
 
 ## Pour executer ce code :
