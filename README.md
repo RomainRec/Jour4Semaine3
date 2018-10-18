@@ -4,7 +4,8 @@
 
 ## Introduction:
 
-Le projet consiste en gros à contacter toutes les mairies de France pour que ces dernières parlent de THP. Qui sait, ptet que grâce à vous on aura The Hacking Project dans une ferme de la Creuse ❤️
+Le projet consiste en gros à contacter toutes les mairies de France pour que ces dernières parlent de THP. On va scrapper, enregistrer dans un spreadsheet, puis envoyer des emails, avec une relance par Twitter. Le tout dans un dossier ruby bien rangé, en POO.❤️❤️❤️❤️❤️
+C'est un excellent entrainement pour les projets plus conséquents de la formation. Comme il y a beaucoup à faire.
 
 :fire: :fire: :fire: :fire: :fire: :fire::fire: :fire: :fire: :fire: :fire:
 
@@ -68,3 +69,6 @@ Voici le lien de fichier  [Grenoble](https://github.com/RomainRec/Jour4Semaine3)
 
 
 On a envoyé 312 emails pour 312 mairies voila [la.preuve](https://files.slack.com/files-pri/T3W8B88JW-FDGMC32HX/screen_shot_2018-10-18_at_18.46.50.png)
+
+
+                                             ❤️❤️❤️   MERCI A VOUS ❤️❤️❤️
